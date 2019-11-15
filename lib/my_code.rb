@@ -27,4 +27,11 @@ end
 return source_array
 end
 
+reduce_to_total(source_array, starting_point)
+index = 0 
+total = starting_point
+
+while
+end
+end
 
