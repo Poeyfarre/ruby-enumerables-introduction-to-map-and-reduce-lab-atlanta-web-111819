@@ -15,5 +15,9 @@ end
 
 map_to_double(source_array)
 source_array[index] source_array[index] * 2
+index ++ 1 
+end
+return source_array
+end
 
 
