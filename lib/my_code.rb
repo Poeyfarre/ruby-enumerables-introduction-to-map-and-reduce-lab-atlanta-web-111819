@@ -31,7 +31,10 @@ reduce_to_total(source_array, starting_point)
 index = 0 
 total = starting_point
 
-while
+while index < source_array.length do
+  total += source_array[index]
+  index += 1 
 end
+return total
 end
 
