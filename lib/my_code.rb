@@ -21,7 +21,10 @@ return source_array
 end
 
 map_to_square(source_array)
-
+source_array[index] source_array[index] ** 2
+index ++ 1 
+end
+return source_array
 end
 
 
