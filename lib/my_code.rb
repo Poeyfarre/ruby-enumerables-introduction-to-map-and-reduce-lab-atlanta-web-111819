@@ -13,6 +13,7 @@ map_to_no_change(source_array)
 return source_array
 end
 
-
+map_to_double(source_array)
+source_array[index] source_array[index] * 2
 
 
